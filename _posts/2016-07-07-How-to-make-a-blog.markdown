@@ -17,7 +17,7 @@ catalog: true
 ### 关于视频演示
 
 由于在前期我没有一边做一边录屏，所以之前安装Git环境和SSH配置的步骤都没有录，只录了后来创建个人主页的一部分和修改个人博客的一部分（操作有点乱...而且没有剪辑视频），有些杂乱无章，请见谅。
-[部分操作的视频演示](https://support.dnspod.cn/Kb/showarticle/tsid/177/)
+[部分操作的视频演示](http://v.youku.com/v_show/id_XMTYzNzcwOTczMg==.html)
 
 > “下面是正文0.0”
 
